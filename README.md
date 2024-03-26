@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @AdryGdS
-- 👀 I’m interested in reading
-- 🌱 I’m currently learning html 5, css and python
-- 💞️ I’m looking to collaborate on basic projects in those languages above
-- 📫 You can reach me in linkedin as Adriely Gogora dos Santos
-
-<!---
-AdryGdS/AdryGdS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hello there, I’m Adriely and I am a developer in training, currently learning python, php, java, javascript, html and css.
+- I’m looking to collaborate on basic projects in those languages above and open to learn other languages and technologies as well. 
+- I'm currently working as an Intern in Corporate Business Technology at Johnson & Johnson, helping my teammates to develop internal solutions.
+- You can reach me in linkedin as Adriely Gogora dos Santos.
